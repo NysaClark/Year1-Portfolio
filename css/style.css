@@ -83,7 +83,6 @@ a:hover {
 #landing h1 {
   margin: 10px 0 15px 0;
   font-size: 3.9rem;
-  font-family: fantasy;
   color: #fff;
   text-align: center;
 }
@@ -326,11 +325,11 @@ a:hover {
   }
   #navbar.nav-top .container a {
     padding: .7rem;
-    font-size: 0.7rem;
+    font-size: .9rem;
   }
 }
 
-@media only screen and (max-width: 310px) {
+@media only screen and (max-width: 370px) {
   #navbar.nav-top {
     display: none;
   }
